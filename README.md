@@ -1,5 +1,5 @@
 # Spotify-Artists-to-Apple-Music
-Migrate your followed artists on Spotify with Apple Music
+Migrate your followed artists on Spotify to Apple Music
 
 Currently, this **Python** automation tool utilizes **Selenium** to automate the **Chrome** browser interaction with Apple Music. I am currently using a hardcoded list of artists that it will read from. I will try to implement the API approach as soon as Spotify brings back the developer features.
 
