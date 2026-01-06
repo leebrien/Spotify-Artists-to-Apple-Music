@@ -11,6 +11,7 @@ Currently, this **Python** automation tool utilizes **Selenium** to automate the
 2.  **Edit the Artist List (This is just a temporary workaround)**:
     Locate the `followed_artists` list at the top of the file and add the names of the artists you want to migrate:
     ```python
+    # This is temporary until Spotify brings back developer access
     followed_artists = [
         "Kendrick Lamar",
         "Frank Ocean",
