@@ -33,3 +33,6 @@ Currently, this **Python** automation tool utilizes **Selenium** to automate the
 ## Roadmap
 * [x] Apple Music Automation (Favorites)
 * [ ] Fetch the "Followed Artists" list directly from Spotify (via API).
+
+## Disclaimer
+Please use responsibly and be aware of Apple's terms of service.
